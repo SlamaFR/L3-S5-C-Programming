@@ -1,0 +1,8 @@
+# Project exclude paths
+/cmake-build-debug/
+.idea/
+cmake-build-debug/
+CMakeLists.txt/
+*.o
+*.dSYM/
+*.zip
